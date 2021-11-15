@@ -1,0 +1,6 @@
+---
+applications:
+- name: pydata_cf_test
+  memory: 1GB
+  disk_quota: 2GB
+  command: python src/travel_reco_svc.py

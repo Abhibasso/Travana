@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../trip-advisor/trip-advisor.iml" filepath="$PROJECT_DIR$/../trip-advisor/trip-advisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-profile-predictor.iml" filepath="$PROJECT_DIR$/user-profile-predictor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../user-profile-svc.iml" filepath="$PROJECT_DIR$/../user-profile-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../user-profile-ui/user-profile-ui.iml" filepath="$PROJECT_DIR$/../user-profile-ui/user-profile-ui.iml" />
+    </modules>
+  </component>
+</project>
